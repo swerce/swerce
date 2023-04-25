@@ -1,12 +1,10 @@
 <h2>Hello, There ! <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> </h2>
 # 💻 Languages👾
-_________
-|◼ C 📃|
-|◼ C++ 🗳 |
-◼ Assembly ⚙|
-|◼ Python 🐍|
-|◼ Javascript 📂|
-__________________
+ C 📃|
+C++ 🗳 |
+Assembly ⚙|
+Python 🐍|
+Javascript 📂|
 
 
 ##💰 You can help me by Donating
