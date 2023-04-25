@@ -1,8 +1,4 @@
 <h2>Hello, There ! <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> </h2>
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lajawss) 
-
 # 💻 Languages👾
 _________
 |◼ C 📃|
