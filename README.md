@@ -37,7 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=swerce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/cDZJ17fbzWVle68VCB" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/GitHub-universe-github-cDZJ17fbzWVle68VCB">via GIPHY</a></p>
 
 ###
 
