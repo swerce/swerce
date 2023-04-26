@@ -20,7 +20,7 @@ Javascript 📂|
 <table align="center" border="-200"><tr><td colspan=0 align="center">
 Are you sure?
 
-| [_Yes_](https://github.com/koumaza/koumaza/blob/master/Bom.md) | __No__ |
+| [_Yes_](https://github.com/swerce/swerce/blob/main/bomb.md) | __No__ |
 | --- |----|
 </table></tr></td>
 
