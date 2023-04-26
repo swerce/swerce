@@ -15,7 +15,7 @@ Javascript 📂|
 <br/>
 
 ---
-<details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="25"><tr><td colspan=0 align="center"><h1>💣<ins>koumaza</ins> <ins>bomb</ins>💣</h1></td></tr></table></ins></summary>
+<details><summary>⚠️Warning!⚠️<br><br><ins><table align="center" border="25"><tr><td colspan=0 align="center"><h1>💣<ins>Bomb</ins> <ins>Bomb</ins>💣</h1></td></tr></table></ins></summary>
 
 <table align="center" border="-200"><tr><td colspan=0 align="center">
 Are you sure?
