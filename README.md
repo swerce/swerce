@@ -1,7 +1,7 @@
 <h2>Hello, There ! <img src="https://github.com/Parply/Parply/blob/master/.github/Hi.gif?raw=true" width="30px"> </h2>
 # 💻 Languages👾
 <br>
-html 🎁    |    Css 👓      |    Python 🐍       |     Javascript(30%)🌟
+html 🎁    |    Css 👓      |    Python 🐍       |     Javascript🌟
 <br/>
 <br/>
 ---------------------------------------------------------------------------------------------------------------
